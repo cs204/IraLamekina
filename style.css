@@ -1,0 +1,19 @@
+body {
+    background-color: #AFEEEE;
+}
+#lex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color: #FFA07A;
+}
+h1 {
+    color: red;
+}
+h2{
+    color: #8B0000;
+}
+h3 {
+    color: green;
+}
